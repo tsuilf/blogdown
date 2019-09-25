@@ -1,0 +1,40 @@
+---
+title: Test
+author: admin
+date: '2019-09-25'
+slug: test
+math: true
+diagram: true
+categories:
+  - R
+tags:
+  - Academic
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-09-25T00:26:25+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## Test
+
+$$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+
+- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+
+
+
+### Did you find this page helpful? Consider sharing it 🙌
